@@ -1,4 +1,4 @@
-# 🏈 FF-Scraping-and-Visualization
+# 🏈 FF-Scraping-and-Visualizations
 
 ## What does this project do?
 - Scrapes entire fantasy league history from NFL.com.  
