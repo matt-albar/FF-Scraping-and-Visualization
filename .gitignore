@@ -1,2 +1,22 @@
 .DS_Store
 __pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Jupyter Lab workspace files
+*.jl
+*.jl.*.json
+.jupyter/
+.jupyter/lab/workspaces/
+**/.jupyter/lab/workspaces/
+
+# VS Code / Desktop IDE workspace files
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+
+# OS/Desktop clutter (safe exclusions)
+.DS_Store
+Thumbs.db
