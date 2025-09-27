@@ -1,22 +1,21 @@
 .DS_Store
 __pycache__/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-**/.ipynb_checkpoints/
+# Ignore Jupyter checkpoints in Output folder only
+Output/.ipynb_checkpoints/
+Output/**/.ipynb_checkpoints/
 
-# Jupyter Lab workspace files
-*.jl
-*.jl.*.json
-.jupyter/
-.jupyter/lab/workspaces/
-**/.jupyter/lab/workspaces/
+# Ignore Jupyter Lab workspaces (if they sneak in)
+Output/.jupyter/
+Output/.jupyter/lab/workspaces/
+Output/**/.jupyter/lab/workspaces/
 
-# VS Code / Desktop IDE workspace files
+# IDE desktop workspace configs (optional but common)
 *.code-workspace
 *.sublime-workspace
 *.sublime-project
 
-# OS/Desktop clutter (safe exclusions)
+# OS/Desktop clutter
 .DS_Store
 Thumbs.db
+
