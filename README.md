@@ -137,10 +137,6 @@ This file must be updated manually before running the visualization notebook. Ad
 
 ## 📸 Example Visualization Gallery
 
-> *(For public sharing, anonymized manager and team names can be
-> generated in the notebook using a one-line anonymization function
-> before plotting.)*
-
 ![Team Names Over Time](output/images/team_names_over_time.png)
 ![Champ vs Loser Lollipop](output/images/champ_vs_loser_lollipop.png)
 ![Final Four vs Bottom Four](output/images/final4_vs_bottom4.png)
