@@ -179,7 +179,7 @@ Core libraries: - `pandas` - `numpy` - `matplotlib` - `seaborn` -
 
 -   **Original Scraper:** [FF-Scraping by
     @PeteTheHeat](https://github.com/PeteTheHeat/FF-Scraping)\
--   **Visualizations:** Created by
+-   **Visualization:** Forked and expanded by
     [@CyberJrod](https://github.com/CyberJrod)
 
 ------------------------------------------------------------------------
