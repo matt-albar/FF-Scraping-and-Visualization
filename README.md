@@ -137,7 +137,16 @@ from the dataset.
 > generated in the notebook using a one-line anonymization function
 > before plotting.)*
 
-*(Preview images will appear here once rendered.)*
+![Team Names Over Time](output/images/team_names_over_time.png)
+![Champ vs Loser Lollipop](output/images/champ_vs_loser_lollipop.png)
+![Final Four vs Bottom Four](output/images/final4_vs_bottom4.png)
+![Playoff Ranks](output/images/playoff_ranks.png)
+![Lifetime Wins Losses](output/images/lifetime_wins_losses.png)
+![Head to Head Wins](output/images/head_to_head_wins.png)
+![Draft Position Podium](output/images/draft_position_podium.png)
+![All-Time Points For vs Against](output/images/alltime_points_for_vs_against.png)
+![Average Points Per Season](output/images/avg_points_per_season.png)
+![Points For vs Against](output/images/points_for_vs_against.png)
 
 ------------------------------------------------------------------------
 
