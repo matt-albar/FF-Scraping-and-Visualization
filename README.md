@@ -143,7 +143,7 @@ from the dataset.
 
 ## 🧩 Project Architecture
 
-### `data_load.py`
+### `data_loader.py`
 
 Handles all CSV imports, cleaning, and dataset joining.\
 Creates two DataFrames: - `df` → Season and standings data\
