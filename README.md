@@ -88,6 +88,10 @@ All files will be saved in the `output` directory.
 The Jupyter Notebook loads your scraped CSVs and generates all visuals
 from the dataset.
 
+Note: Some Visualizations rely on the /output/current_managers.csv file to filter active or current league members.
+
+This file must be updated manually before running the visualization notebook. Add each current manager's name to this file exactly how it appears in your scraped data.
+
 ### Included Visualizations
 
   -----------------------------------------------------------------------
